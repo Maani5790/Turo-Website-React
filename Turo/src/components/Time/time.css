@@ -1,0 +1,27 @@
+.time{
+    margin-left: 18px;
+}
+
+@media screen and (max-width: 990px) {
+    .time{
+        margin-left: 5px;
+       
+    }
+    .input-time{
+        width: 90px;
+    }
+
+     
+}
+
+@media screen and (max-width: 766px) {
+    .time{
+        margin-left: 15px;
+       
+    }
+    .input-time{
+        width: 120px;
+    }
+
+     
+}

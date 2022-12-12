@@ -1,0 +1,28 @@
+.date{
+    margin-left: 18px;
+}
+
+@media screen and (max-width: 990px) {
+    .date{
+        margin-left: 5px;
+    }
+    .input-date{
+        width: 100px;
+    }
+     
+}
+@media screen and (max-width: 766px) {
+    .date{
+        margin-left: 5px;
+    }
+    .input-date{
+        width: 150px;
+    }
+     
+}
+
+@media screen and (max-width: 346px) {
+    .input-date{
+        width: 120px;
+    }
+}
